@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Duc 👋
 
-<!--
-**ducanh2306/ducanh2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+🎓 Business Intelligence student  
+💻 Interested in Python, Data Analysis, Django 
+📊 Building projects for portfolio  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas, NumPy
+- SQL
+- Power BI
+- Git & GitHub
+- C++
+- HTML/CSS/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Retail Sales Analysis
+- Django Mini App
+- Python Practice Projects
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/duc-anh-ngo-7ba68820b
