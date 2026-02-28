@@ -1,4 +1,4 @@
-# Hi, I'm Duc 👋
+# Hi, I'm Duc Anh (Andy) 👋
 
 🎓 Computer Science student  
 🎓 Business Intelligence student  
