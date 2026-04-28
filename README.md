@@ -26,25 +26,13 @@
 
 ---
 
-## Projects
-
-- **Airport Authority Data Analysis (Power BI)**  
-  → Dashboard showing flight volume, delays, ground processing time, and route maps.
-
-- **Django Web App**  
-  → Web application using Python to track user's income and expense.
-
-- **Python Practice Projects**  
-  → GIF convert.
-
----
-
 ## Currently Learning
 - Power BI (DAX, performance optimization)  
-- Data modeling and warehousing  
+- Business Intelligence  
 - Django REST Framework
 - AWS Foundation
-
+- Machine Learning
+- Database Analytics
 ---
 
 ## Contact Me
